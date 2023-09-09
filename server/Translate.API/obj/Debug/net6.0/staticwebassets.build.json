@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qltSZIpDTpy7YdIEJGEZL9FJOsu2kbQ2EwTkvmX4+aM=",
+  "Source": "Translate.API",
+  "BasePath": "_content/Translate.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

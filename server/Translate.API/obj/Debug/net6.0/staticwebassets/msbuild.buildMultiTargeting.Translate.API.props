@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Translate.API.props" />
+</Project>
